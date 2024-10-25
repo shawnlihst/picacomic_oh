@@ -1,0 +1,10 @@
+{
+  "app": {
+    "bundleName": "com.github.wgh136.picacomic_oh",
+    "vendor": "example",
+    "versionCode": 404,
+    "versionName": "4.0.4",
+    "icon": "$media:app_icon",
+    "label": "$string:app_name"
+  }
+}
